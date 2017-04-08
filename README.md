@@ -18,3 +18,4 @@ RESOURCES
 NOTES
 =====
 * run ```/usr/local/psa/admin/bin/httpdmng --reconfigure-all``` after changes are made to recompile all existing configs
+* check newrelic APM and you have your nice apps listed
